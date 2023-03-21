@@ -131,5 +131,8 @@
   ![download](https://user-images.githubusercontent.com/7474985/226736705-24285847-d7a0-4fc8-b7f1-e69acdd47c90.jpg)</br>
  מדובר במשחק מאוד מושקע בקנה מידה גדולה יותר מהמשחק שאנו שואפים לייצר והיתרון של המשחק שאנו רוצים לייצר הוא שהוא יותר קליל ויהיה יותר קל להכנס אליו.
 
+ 3. [Satisfactory](https://www.satisfactorygame.com/) משחק תלת מימדי עם דגש גדול יותר על טיולים וחקירת העולם </br></br>
+
+![factory](https://user-images.githubusercontent.com/7474985/226737852-a1af29e0-1a3f-4c5c-b75e-75babd1c9739.png)
 
 </div>
